@@ -53,7 +53,7 @@ List of possible relays that have been approved by DAO can be fetched by [queryi
 ./mev-boost -mainnet -relay-check -relay <comma-separated relay urls>
 ```
 
-### Holešky
+### Hoodi
 
 ```shell
 ./mev-boost -holesky -relay-check -relay <comma-separated relay urls>

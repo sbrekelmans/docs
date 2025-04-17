@@ -56,7 +56,7 @@ List of possible relays that have been approved by DAO can be fetched by [queryi
 ### Hoodi
 
 ```shell
-./mev-boost -holesky -relay-check -relay <comma-separated relay urls>
+./mev-boost -hoodi -relay-check -relay <comma-separated relay urls>
 ```
 
 Full list of MEV-boost CLI options can be found here [MEV-Boost CLI Options]

@@ -95,7 +95,7 @@ Operator id for a given reward address can be obtained by successively calling
 [`NodeOperatorsRegistry.getNodeOperator`] with the increasing `_id` argument until you get the
 operator with the matching `rewardAddress`.
 
-Etherscan pages for the Holešky contracts:
+Etherscan pages for the Hoodi contracts:
 
 - [`Lido`](https://holesky.etherscan.io/address/0x3F1c547b21f65e10480dE3ad8E19fAAC46C95034#readProxyContract)
 - [`NodeOperatorsRegistry`](https://holesky.etherscan.io/address/0x595F64Ddc3856a3b5Ff4f4CC1d1fb4B46cFd2bAC)
